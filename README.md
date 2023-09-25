@@ -13,12 +13,12 @@
 ## Descripción del proyecto  
 
 AluraFlix es un Reto del programa de Oracle Next Education y Alura Latam. El cual  se creó una applicación web que sirva de repositorio de videos de youtube clasificados por categorías. 
-![Mockup de AluraFlix](./src/assets/img/previsualizaci%C3%B3n.png)   
+![Mockup de AluraFlix](./src/assets/img/previsualizacion.png)   
 ## Funcionalidades del proyecto 
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de categorias
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de videos 
 ## Acceso al proyecto
-
+https://vil-flix.vercel.app/video
 
 ## Tecnologías utilizadas
 - React
@@ -30,4 +30,4 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latam. El cua
 - Axios
 - X Data Grid
 ## Autores
-(./src/assets/img/Vilma.png) 
+Vilma Ponce
