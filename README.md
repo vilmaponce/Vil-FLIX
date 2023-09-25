@@ -18,7 +18,7 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latam. El cua
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de categorias
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de videos 
 ## Acceso al proyecto
-https://vil-flix.vercel.app/video
+https://vil-flix.vercel.app/
 
 ## Tecnologías utilizadas
 - React
